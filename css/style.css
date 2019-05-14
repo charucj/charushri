@@ -522,7 +522,7 @@ padding: 15px 0;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    min-height: 518px;
+    min-height: 600px;
 }
 /*--header--*/
 #slider2,
@@ -2366,7 +2366,9 @@ ul.bottom i {
     background: #fff;
 	}
 	.banner {
-		min-height: 276px;
+		background: url(../images/bgm.jpg) no-repeat center top;
+		background-size: contain;
+		min-height: 370px !important;
 	}
 	.banner-info h3 {
 		font-size: 2.6em;
