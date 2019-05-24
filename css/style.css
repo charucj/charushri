@@ -708,7 +708,8 @@ padding: 15px 0;
 .banner-info {
     margin-top: 11em;
     text-align: center;
-    margin-left: 9em;
+	margin-left: 9em;
+	background: #331015b8;
 }
 .banner-info h3 {
           font-size: 4em;
@@ -1027,7 +1028,8 @@ h3.tittle.atd {
        margin: 0em auto 0 0;
     text-align: center;
     color: #fff;
-    padding-top: 0.5em;
+	padding-top: 0.5em;
+	background: #3315269c;
 }
 .sub {
     margin-top: 0.5em;
